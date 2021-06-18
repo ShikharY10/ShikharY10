@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shikhar Yadav
-- 👀 I’m interested in developing softwares using python
-- 🌱 I’m currently learning bachelor of computer application
-- 💞️ I’m looking to collaborate on a project on which i'm currently working
+- 👀 I’m interested in developing softwares using python,nodejs.
+- 🌱 I’m currently doing bachelor of computer application.
+- 💞️ I’m looking to collaborate on a project that includes working in python, nodejs and skills like ML, Software Development, Electronjs.
 - 📫 How to reach me - You can mail me - yshikharfzd10@gmail.com
 
 <!---
