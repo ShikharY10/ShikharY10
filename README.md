@@ -32,6 +32,7 @@ I'm a curious Back-End Developer from INDIA ❤️, 20 years old 👶 and **3 ye
 * 👽 Learning any tecnology that apears on my way.
 * 🛹 Also surfing on microcontrollers stuff.
 
+<a href="https://app.daily.dev/shikhar.code"><img src="https://api.daily.dev/devcards/24e23ecb0e37434281d60dbbd17e0439.png?r=ue4" width="400" alt="Shikhar Yadav's Dev Card"/></a>
 
 ----
 
