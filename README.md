@@ -27,9 +27,10 @@ I'm a curious Back-End Developer from INDIA ❤️, 20 years old 👶 and **3 ye
 **A technology lover**💻, a nostalgic **IGI** guy who loves playing **CS-GO** and just loves building new stuffs 💡.
 
 
-* 🧑‍💻 Creator of **[shiSock](https://github.com/shiSock)**
+* 🧑‍💻 Self taught **Backend Developer**.
+* 🖥️ Also loves to do **System Design**.
 * 💫 Always aiming at **usability** and **code performance** at all costs. 
-* 👽 Learning any tecnology that apears on my way.
+* 👽 Learning new technologies is like my hobby.
 * 🛹 Also surfing on microcontrollers stuff.
 
 <a href="https://app.daily.dev/shikharcode"><img src="https://api.daily.dev/devcards/24e23ecb0e37434281d60dbbd17e0439.png?r=5n2" width="400" alt="Shikhar Yadav's Dev Card"/></a>
