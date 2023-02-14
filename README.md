@@ -84,7 +84,7 @@
 <br>
 <br>
 
-# <picture><img src = "daily_dev_logo.png" width = 50px></picture> **Stats**
+# <picture><img src="[daily_dev_logo.png](https://user-images.githubusercontent.com/65106263/218838103-9a120d8f-55e9-4726-95de-858a9fdaf839.png)" width = 50px></picture> **Stats**
 
 <a href="https://app.daily.dev/shikharcode"><img src="https://api.daily.dev/devcards/24e23ecb0e37434281d60dbbd17e0439.png?r=5n2" width="300" alt="Shikhar Yadav's Dev Card"/></a>
 
