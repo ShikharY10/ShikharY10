@@ -76,6 +76,7 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![HaProxy](https://img.shields.io/badge/Haproxy-%23000000.svg?style=for-the-badge&logo=headspace&logoColor=white)   
+    ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23ffff.svg?style=for-the-badge&logo=rabbitmq&logoColor=orange) 
 
 
 </p>
