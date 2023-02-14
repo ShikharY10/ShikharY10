@@ -117,3 +117,7 @@
   <a href="https://github.com/ShikharY10/gossip"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShikharY10&repo=Gossip&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gossip"></a>
   <a href="https://github.com/ShikharY10/magator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShikharY10&repo=magator&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="magator"></a>
 </p>
+
+<br>
+
+![](https://hit.yhype.me/github/profile?user_id=65106263)
