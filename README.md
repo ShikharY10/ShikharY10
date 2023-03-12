@@ -43,6 +43,7 @@
     ![Flutter](https://img.shields.io/badge/Flutter%20-%23327FC7.svg?style=for-the-badge&logo=flutter&logoColor=white)
     ![Express](https://img.shields.io/badge/Express%20-%23ECD53F.svg?style=for-the-badge&logo=express&logoColor=black)
     ![Gin](https://img.shields.io/badge/gin-%23F05033.svg?style=for-the-badge&logo=go&logoColor=white)
+    ![FastAPI](https://img.shields.io/badge/FastAPI-%23ffff.svg?style=for-the-badge&logo=fastapi&logoColor=green)
 
 <br>
 
@@ -69,6 +70,8 @@
     ![Canva](https://img.shields.io/badge/canva-%234285F4.svg?style=for-the-badge&logo=canva&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
+    ![Docker](https://img.shields.io/badge/Docker-%23ffff.svg?style=for-the-badge&logo=docker&logoColor=blue) 
+  
 
 <br>
 
@@ -76,8 +79,9 @@
 
     ![Terminal](https://img.shields.io/badge/Terminal-%23054020?style=for-the-badge&logo=gnu-bash&logoColor=white)
     ![HaProxy](https://img.shields.io/badge/Haproxy-%23000000.svg?style=for-the-badge&logo=headspace&logoColor=white)   
-    ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23ffff.svg?style=for-the-badge&logo=rabbitmq&logoColor=orange) 
-
+    ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-%23ffff.svg?style=for-the-badge&logo=rabbitmq&logoColor=red) 
+    ![PostMan](https://img.shields.io/badge/PostMan-%23fgff.svg?style=for-the-badge&logo=postman&logoColor=orange) 
+  
 
 </p>
 
