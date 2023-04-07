@@ -8,6 +8,11 @@
 
 **A technology lover**💻, a nostalgic **IGI** guy who also loves playing **CS-GO** and just loves building new stuffs 💡.
 
+As a self-taught and motivated Backend Developer, I am passionate about maximizing team
+productivity using my creativity and analytic skills. I thrive on collaborating with other creative
+minds and enjoy working in a team environment. My strong communication skills allow me to seek
+assistance from colleagues when needed, ensuring that deadlines are always met.
+
 <br>
 <br>
 
