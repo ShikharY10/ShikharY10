@@ -93,9 +93,11 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 <br>
 <br>
 
+<!--
 # <picture><img src="[daily_dev_logo.png](https://user-images.githubusercontent.com/65106263/218838103-9a120d8f-55e9-4726-95de-858a9fdaf839.png)" width = 50px></picture> **Stats**
 
-<a href="https://app.daily.dev/shikharcode"><img src="https://api.daily.dev/devcards/24e23ecb0e37434281d60dbbd17e0439.png?r=5n2" width="300" alt="Shikhar Yadav's Dev Card"/></a>
+<a href="https://app.daily.dev/shikharcode"><img src="https://api.daily.dev/devcards/24e23ecb0e37434281d60dbbd17e0439.png?r=5n2" width="300" alt="Shikhar Yadav's Dev Card"/></a> 
+-->
 
 <br>
 <br>
@@ -120,13 +122,15 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 
 ---
 
+<!--
 ## 📘 My Favourite Projects
+
 
 <p align="left">
   <a href="https://github.com/ShikharY10/gossip"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShikharY10&repo=Gossip&theme=react&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide_border=true&show_icons=false" alt="gossip"></a>
   <a href="https://github.com/ShikharY10/magator"><img width="282" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=ShikharY10&repo=magator&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&theme=react&show_icons=false" alt="magator"></a>
 </p>
-
+-->
 <br>
 
 ![](https://hit.yhype.me/github/profile?user_id=65106263)
