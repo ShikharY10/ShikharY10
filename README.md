@@ -118,14 +118,14 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
-<a href="https://github.com/ShikharY10/">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShikharY10&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShikharY10&layout=compact&langs_count=12&theme=cobalt" width="450"  alt="ShikharY10"/>
+<a href="https://github.com/shikharcodess">
+  <img src="https://github-readme-stats.vercel.app/api?username=shikharcodess&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shikharcodess&layout=compact&langs_count=12&theme=cobalt" width="450"  alt="shikharcodess"/>
 
 </a>
-</div>
+</div> -->
 
 ---
 
