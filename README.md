@@ -1,10 +1,17 @@
 <h1 align="center"><b>Hi , I'm Shikhar Yadav </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=660&height=100&lines=Backend+Developer+|+Flutter+|+System+Design+;India"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=660&height=100&lines=Backend+Developer+|+System+Design+;+Networking+|+Databases"></a>
 </p>
 
-# <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
+<p align="center">
+Greetings, fellow carbon-based units! 🧑‍💻 Allow me to introduce myself: I'm a full-stack tech alchemist who once journeyed from the mystical lands of silicon circuits to the enchanted realms of backend sorcery. Picture this: a mad scientist with a soldering iron in one hand and a database schema in the other, whispering sweet nothings to both transistors and API endpoints alike. 🚀
+
+When I'm not busy orchestrating the symphony of ones and zeros, you'll find me navigating the turbulent arenas of CS-GO, where I practice my tactical wizardry to keep the nostalgia flowing, or revisiting the pixelated battlegrounds of IGI, where I flex my old-school stealth skills. 🎮
+
+I'm also known to dabble in high-speed pursuits, whether it’s marveling at the supersonic feats of rockets or cheering on the gravity-defying knights of the Isle of Man TT. And let’s not forget the cricket pitch—where the perfect algorithm meets the perfect cover drive. 🏏
+
+In the cosmic codebase of life, I’m the commit that never fails, the function that always returns true. My mission? To push the boundaries of what's possible with tech, while having a quantum-level of fun along the way. So, strap in, fire up the thrusters, and let’s explore the final frontier of innovation—where hardware meets software, and everything is just a command line away. 💡<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></p>
 
 **A technology lover**💻, a nostalgic **IGI** guy who also loves playing **CS-GO** and just loves building new stuffs 💡.
 
@@ -28,15 +35,18 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 - **Languages**:
     
     ![Go](https://img.shields.io/badge/Go%20-%232370ED.svg?style=for-the-badge&logo=go&logoColor=white)
-    ![NodeJs](https://img.shields.io/badge/Node.Js%20-%232370ED.svg?style=for-the-badge&logo=node.js&logoColor=white)
+    ![Typescript](https://img.shields.io/badge/Typescript%20-%232370ED.svg?style=for-the-badge&logo=typescript&logoColor=white)
+    ![Rust](https://img.shields.io/badge/Rust%20-%232370ED.svg?style=for-the-badge&logo=rust&logoColor=white)
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![Dart](https://img.shields.io/badge/Dart%20-%2300599C.svg?style=for-the-badge&logo=Dart&logoColor=white)
     ![C++](https://img.shields.io/badge/C++%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+    ![C](https://img.shields.io/badge/C%20-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 <br>   
     
 - **Front-End Development**:
 
+   ![NextJS](https://img.shields.io/badge/Next.JS%20-%23000.svg?style=for-the-badge&logo=next.js&logoColor=white)
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
@@ -45,7 +55,6 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 
 - **Frameworks**:
 
-    ![Flutter](https://img.shields.io/badge/Flutter%20-%23327FC7.svg?style=for-the-badge&logo=flutter&logoColor=white)
     ![Express](https://img.shields.io/badge/Express%20-%23ECD53F.svg?style=for-the-badge&logo=express&logoColor=black)
     ![Gin](https://img.shields.io/badge/gin-%23F05033.svg?style=for-the-badge&logo=go&logoColor=white)
     ![FastAPI](https://img.shields.io/badge/FastAPI-%23ffff.svg?style=for-the-badge&logo=fastapi&logoColor=green)
@@ -54,6 +63,7 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 
 - **Database**:
 
+    ![Postgresql](https://img.shields.io/badge/postgresql%20-%237D929E.svg?style=for-the-badge&logo=postgresql&logoColor=blue)
     ![MongoDb](https://img.shields.io/badge/MongoDb%20-%2300599C.svg?style=for-the-badge&logo=mongodb&logoColor=green)
     ![Redis](https://img.shields.io/badge/Redis%20-%23000.svg?style=for-the-badge&logo=redis&logoColor=red)
 
@@ -62,9 +72,7 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 - **Cloud Hosting**:
 
     ![Digital Ocean](https://img.shields.io/badge/Digital%20Ocean-%23F7DF1E.svg?style=for-the-badge&logo=DigitalOcean&logoColor=black)
-    ![AWS](https://img.shields.io/badge/Amazon%20AWS-%237D929E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=yellow)
-    ![Github Pages](https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?style=for-the-badge&logo=github&logoColor=black)
-    
+    ![AWS](https://img.shields.io/badge/Amazon%20AWS-%237D929E.svg?style=for-the-badge&logo=AmazonAWS&logoColor=yellow)    
     
 <br>
 
@@ -72,7 +80,6 @@ assistance from colleagues when needed, ensuring that deadlines are always met.
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
     ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Canva](https://img.shields.io/badge/canva-%234285F4.svg?style=for-the-badge&logo=canva&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
     ![Docker](https://img.shields.io/badge/Docker-%23ffff.svg?style=for-the-badge&logo=docker&logoColor=blue) 
